@@ -36,5 +36,5 @@ pytest-django==4.8.0  # https://github.com/pytest-dev/pytest-django
 
 #DRF
 djangorestframework==3.14.0
-django-filter==23.5
+django-filter==24.1
 djangorestframework-simplejwt==5.3.1
